@@ -1,14 +1,29 @@
-- 👋 Hi, I’m @ShaiiX
-- 👀 I’m interested in learn more about programming languages and increase my knowledge of them
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on Discord: shaaiix
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Coffee with cream fanatic :D
+````markdown
+<div align="center">
 
-<!---
-ShaiiX/ShaiiX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Hey, I'm Shaila 👋</h1>
 
-![Working Chis Sweet Home GIF](https://github.com/user-attachments/assets/f013a7b6-770d-4ce2-b3a0-d463a7e7730c)
+</div>
+
+<div align="left">
+  <img align="left" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5tZ2Z1b3E4YzF1bGxqY3V6a3Q0d3J5a2Z5b2F2dW1kZ3R2Z3R4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ICOgUNjpvO0PC/giphy.gif">
+</div>
+
+<br><br>
+
+```txt
+💻 Aspiring Developer • Learning --
+🌱 Always improving my coding skills
+🎮 Games • Anime • Code • Music
+☕ Coffee lover (with cream, always)
+🚀 Looking to collaborate on cool projects
+````
+
+<br>
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-shaiix-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](#)
+
+</div>
+```
