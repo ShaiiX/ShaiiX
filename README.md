@@ -4,8 +4,8 @@
 
 ### 💻 About me
 - Aspiring Developer • Learning JavaScript  
-- 🌱 Always improving my coding skills  
-- 🎮 Games • Anime • Code • Music  
+- 🌱 Always improving myself  
+- 🎮 Games • Anime • Reading • Music  
 - ☕ Coffee lover (with cream, always)  
 - 🚀 Looking to collaborate on cool projects  
 
