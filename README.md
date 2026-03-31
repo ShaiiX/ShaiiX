@@ -19,7 +19,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaiiX&show_icons=true&locale=en" alt="ShaiiX" /></p>
 
 ### 📫 Contact with me 
 [![Discord](https://img.shields.io/badge/Discord-shaaiix-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/827843991176609803)
