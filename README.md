@@ -10,4 +10,4 @@
 - 🚀 Looking to collaborate on cool projects  
 
 ### 📫 Connect with me
-[![Discord](https://img.shields.io/badge/Discord-shaiix-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-shaaiix-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
