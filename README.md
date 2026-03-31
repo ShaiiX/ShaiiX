@@ -1,6 +1,6 @@
 # Hey, I'm Shaila 👋
 
-![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5tZ2Z1b3E4YzF1bGxqY3V6a3Q0d3J5a2Z5b2F2dW1kZ3R2Z3R4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ICOgUNjpvO0PC/giphy.gif)
+![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3R5NHF4MjFzZWF0eW52MXBuczlxZzFwdzg4Y3l6aXFuMjVjN3VlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VxQ8nZyCtZpQIMgLyP/giphy.gif)
 
 ### 💻 About me
 - Aspiring Developer • Learning JavaScript  
