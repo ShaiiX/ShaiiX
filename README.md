@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Shaila</h1>
 
-![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVyczd1cXFtYXY3Z3k1NGx2aDNwNmZlNWp5YW0wb2czcGNudnk3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ThrM4jEi2lBxd7X2yz/giphy.gif)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVyczd1cXFtYXY3Z3k1NGx2aDNwNmZlNWp5YW0wb2czcGNudnk3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ThrM4jEi2lBxd7X2yz/giphy.gif" width="250"/>
 
 ## 💻 About me
 - 🌱 Always improving myself
