@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Shaila</h1>
 
-![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3R5NHF4MjFzZWF0eW52MXBuczlxZzFwdzg4Y3l6aXFuMjVjN3VlYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VxQ8nZyCtZpQIMgLyP/giphy.gif)
+![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVyczd1cXFtYXY3Z3k1NGx2aDNwNmZlNWp5YW0wb2czcGNudnk3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ThrM4jEi2lBxd7X2yz/giphy.gif)
 
 ## 💻 About me
 - 🌱 Always improving myself
@@ -23,12 +23,6 @@
 
 ### 📫 Contact with me 
 [![Discord](https://img.shields.io/badge/Discord-shaaiix-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/827843991176609803)
-
-<p align="left">
-  <a href="https://discord.gg/">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-
   <a href="https://open.spotify.com/user/e7fo5j2djyudjv2nycu4a6nnv">
     <img src="https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1DB954"/>
   </a>
