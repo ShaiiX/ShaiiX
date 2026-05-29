@@ -5,7 +5,8 @@
 ## 💻 About me
 - 🌱 Always improving myself
 - 🎮 Games • Anime • Reading • Music
-- ☕ Coffee lover (with cream)
+- ☕ Coffee lover
+
 ##🚀 Languages and Tools I Use
 <p align="left">
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" style="display:inline-block; margin-right:5px;"/></a>
