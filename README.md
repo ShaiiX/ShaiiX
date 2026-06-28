@@ -24,6 +24,7 @@
 
 ### 📫 Contact with me 
 [![Discord](https://img.shields.io/badge/Discord-shaaiix-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/827843991176609803)
+
   <a href="https://open.spotify.com/user/e7fo5j2djyudjv2nycu4a6nnv">
     <img src="https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1DB954"/>
   </a>
